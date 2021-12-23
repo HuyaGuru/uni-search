@@ -1,13 +1,29 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;800&family=Source+Code+Pro:wght@400;800&display=swap");
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  box-sizing: border-box;
+}
+h3,
+p,
+h1,
+h4 {
+  margin: 0;
+}
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+body,
+select,
+button {
+  font-family: "Open Sans", sans-serif;
+}
+body {
+  --faded-black: rgb(165, 165, 165);
+  --faded-white: rgb(226, 226, 226);
 }
