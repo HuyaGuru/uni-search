@@ -1,6 +1,6 @@
 # Uni Search
 
-This project uses a simple api to show a list of universities via a country filter which could be clicked for more details.
+This project uses a simple api to show a list of universities via a country filter and the university could be clicked for more details.
 
 ## Available Scripts
 
