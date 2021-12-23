@@ -4,7 +4,7 @@ This project uses a simple api to show a list of universities via a country filt
 
 ## This project couldnt be hosted as the api doesnt have a https equivalent/alternative.
 
-Despite that there could be a vercel link for this project but the university's list will never load on that site. It should be treated as teaser of the UI rather than a working prototype.
+Despite that there could be a vercel link for this project but the university's list will never load on that site. It should be treated as a teaser of the UI rather than a working prototype.
 
 ## Available Scripts
 
