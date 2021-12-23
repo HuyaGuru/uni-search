@@ -1,7 +1,8 @@
 # Uni Search
 
 This project uses a simple api to show a list of universities via a country filter and the university could be clicked for more details.
-This project couldnt be hosted as the api doesnt have a https alternative.
+
+## This project couldnt be hosted as the api doesnt have a https alternative.
 
 ## Available Scripts
 
